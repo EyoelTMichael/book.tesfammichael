@@ -2,3 +2,43 @@ baseURL = 'https://book.tesfamichael.github.io'
 languageCode = 'en-us'
 title = 'TesfaMichael Research'
 theme = 'hugo-book' 
+
+
+
+
+[params]
+    BookTheme = "dark"
+    BookToC = true
+    BookSearch = true
+    BookMenuBundle = '/menu'
+    BookSection = 'docs'
+
+disablePathToLower = true
+enableGitInfo = true
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+# Multi-lingual mode config
+# There are different options to translate files
+# See https://gohugo.io/content-management/multilingual/#translation-by-filename
+# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+
+[languages.am]
+  languageName = 'አማርኛ'
+  contentDir = 'content.am'
+  weight = 2
+
+[languages.zh]
+  languageName = 'Chinese'
+  contentDir = 'content.zh'
+  weight = 3

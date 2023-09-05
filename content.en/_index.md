@@ -1,33 +1,37 @@
 ---
-title: Introduction
+title: Home
 type: docs
 ---
 
-# Acerbo datus maxime
+# Welcome to TesfaMichael Research
 
-<!-- {{< columns >}} -->
-
-## Astris ipse furtiva
+## Who we are
 
 Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
 olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
 modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
 
-<!-- <---> -->
+{{< columns >}}
 
-## Suis quot vota
+## Mission statement
 
 Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
 miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
 nunc! Fragosis suae dextra geruntur functus vulgata.
 
-<!-- {{< /columns >}} -->
+<--->
 
-## Tempora nisi nunc
+## Goal statement
 
 Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
 tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
 sequens!
+
+{{< /columns >}}
+
+## Locis suis novi cum suoque decidit eadem
+
+Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
 
     var panel = ram_design;
     if (backup + system) {
@@ -36,7 +40,3 @@ sequens!
                 dual_login_paper.adf_vci.application_reader_design(
                 graphicsNvramCdma, lpi_footer_snmp, integer_model));
     }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
